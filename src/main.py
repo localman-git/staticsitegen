@@ -1,7 +1,7 @@
 from textnode import TextNode, TextType
 
 def main():
-    print(TextNode('example', TextType.BOLD_TEXT))
+    print(TextNode('example', TextType.BOLD))
 
 if __name__ == "__main__":
     main()
